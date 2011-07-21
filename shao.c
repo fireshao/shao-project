@@ -1,6 +1,8 @@
 # include <stdio.h>
 
 int main(int argc, const char *argv[])
+
+
 {      
 	int s;
 	for (s = 0; s < 10000; s++)
