@@ -1,5 +1,4 @@
 # include <stdio.h>
-
 int main(int argc, const char *argv[])
 {      
 	int s;
@@ -10,3 +9,4 @@ int main(int argc, const char *argv[])
 	
 	return 0;
 }
+
